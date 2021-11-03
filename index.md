@@ -1,6 +1,6 @@
 ## Vamos falar de amor?
 
-You can use the [editor on GitHub](https://github.com/KillaK97/jefferson.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Primeiramente, acesse esse [link](https://www.youtube.com/watch?v=gM89Q5Eng_M) e dê stream para a mamacita.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

@@ -1,1 +1,1 @@
-Um espaço para testar minhas pinfimas habilidades 
+Um espaço para testar minhas ínfimas habilidades 
